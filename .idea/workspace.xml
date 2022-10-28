@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99aaf095-67b9-4b78-bbee-c83491953ef5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../HW1/Product_of _digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW1/Header.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Header.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW1/Money_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Money_format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW1/Python_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Python_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW1/Rug_designer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Rug_designer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HW1/Welcome_to_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Welcome_to_Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HW2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="99aaf095-67b9-4b78-bbee-c83491953ef5" name="Changes" comment="A new module Product of Digits has been added.">
+      <change beforePath="$PROJECT_DIR$/../HW1/Product_of _digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Product_of_digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +35,8 @@
     "last_opened_file_path": "C:/Users/Nikita/PycharmProjects/HW1"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Product_of _digits">
-    <configuration name="Product_of _digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="Product_of_digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +48,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HW1/Product_of _digits.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Nikita\PycharmProjects\HW1\Product_of_digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HW1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HW1/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Product_of _digits" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.Product_of_digits" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666757985504</updated>
     </task>
+    <task id="LOCAL-00001" summary="A new module Product of Digits has been added.">
+      <created>1666926345783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666926345784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +137,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="A new module Product of Digits has been added." />
+    <option name="LAST_COMMIT_MESSAGE" value="A new module Product of Digits has been added." />
   </component>
 </project>
