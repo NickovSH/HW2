@@ -3,7 +3,7 @@
 import random
 
 def Rounding():
-    print('\nExercise 3')
+    print('\nExercise 3 - Rounding')
 
     num1 = random.uniform(0, 100)
     print('Random number = ', num1)

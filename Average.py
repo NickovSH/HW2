@@ -2,7 +2,7 @@
 import random
 
 def Average():
-    print('\nExercise 1')
+    print('\nExercise 1 - Average')
 
     num1 = random.uniform(0,100)
     num2 = random.uniform(0,100)

@@ -1,7 +1,7 @@
 import random
 
 def Division():
-    print('\nExercise 2')
+    print('\nExercise 2 - Division')
 
     num1 = random.uniform(0, 100)
     num2 = random.uniform(0, 100)
